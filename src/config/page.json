@@ -1,0 +1,25 @@
+{
+  "title": "Retrospective",
+  "sections": [
+    {
+      "name": "what_went_well",
+      "heading": "What Went Well",
+      "bgColor": "orange"
+    },
+    {
+      "name": "what_can_be_improved",
+      "heading": "What Can Be Improved",
+      "bgColor": "cyan"
+    },
+    {
+      "name": "start_doing",
+      "heading": "Start Doing",
+      "bgColor": "lightgreen"
+    },
+    {
+      "name": "action_items",
+      "heading": "Action Items",
+      "bgColor": "magenta"
+    }
+  ]
+}
